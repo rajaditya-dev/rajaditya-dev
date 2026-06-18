@@ -56,9 +56,9 @@ I enjoy turning academic concepts into real working projects and continuously im
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajaditya-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=rajaditya-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=rajaditya-dev&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajaditya-dev&theme=tokyonight)
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajaditya-dev&theme=dark&hide_border=false&layout=compact)
 
